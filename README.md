@@ -23,4 +23,6 @@
 |OWASP Juice Shop               |https://juice-shop.herokuapp.com/        |Node.js                                |unknown
 |Cyclone Transfers              |http://cyclone.ciphertechs.com/          |Ruby on Rails                          |unknown
 |Web Scanner Test Site          |http://webscantest.com/                  |Apache, PHP                            |unknown
-|List of online Vuln Web Apps   |https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Online | 
+Most of the apps in single VM  http://www.vulnerablewebapps.org/
+List of online Vuln Web Apps   https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Online 
+List of 40 online sites to practice https://www.bonkersabouttech.com/security/40-plus-list-of-intentionally-vulnerable-websites-to-practice-your-hacking-skills/392
