@@ -23,4 +23,4 @@
 |OWASP Juice Shop               |https://juice-shop.herokuapp.com/        |Node.js                                |unknown
 |Cyclone Transfers              |http://cyclone.ciphertechs.com/          |Ruby on Rails                          |unknown
 |Web Scanner Test Site          |http://webscantest.com/                  |Apache, PHP                            |unknown
-|https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Online | 
+|List of online Vuln Web Apps   |https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Online | 
