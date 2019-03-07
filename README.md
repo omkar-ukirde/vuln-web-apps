@@ -25,3 +25,6 @@
 |Web Scanner Test Site          |http://webscantest.com/                  |Apache, PHP                            |unknown
 |List of online Vuln Web Apps   |https://goo.gl/jMSbMM                    |Unknown                                |unknown
 |List of 40 online sites to practice |https://goo.gl/Qcfdi8               |Unknown                                |unknown
+# OSINT GAMES
+|A Google a Day| http://www.agoogleaday.com/| unknown | unknown
+|Geo Guessr| https://geoguessr.com/| unknown| unknown 
