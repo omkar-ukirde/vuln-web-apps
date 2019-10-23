@@ -25,6 +25,7 @@
 |Web Scanner Test Site          |http://webscantest.com/                  |Apache, PHP                            |unknown
 |List of online Vuln Web Apps   |https://goo.gl/jMSbMM                    |Unknown                                |unknown
 |List of 40 online sites to practice |https://goo.gl/Qcfdi8               |Unknown                                |unknown
+|Rapid7 Hackazon	              |http://hackazon.webscantest.com/	        |Apache, PHP, Ajax, JSONm XML, Gwt, AMF	|admin:admin:123456
 # OSINT GAMES
 |Name                           |URL                                      |Technology                             |Creds (role:user:password)|
 |-------------------------------|-----------------------------------------|---------------------------------------|--------------------------|
