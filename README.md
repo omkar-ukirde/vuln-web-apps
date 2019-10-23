@@ -14,7 +14,7 @@
 |NTOSpider Test Site            |http://www.webscantest.com/              |Apache, PHP                            |unknown
 |HackYourselfFirst              |http://hackyourselffirst.troyhunt.com/   |IIS, ASP.NET                           |unknown
 |NotASafaWeb                    |http://notasafaweb.apphb.com/            |IIS, ASP.NET                           |unknown
-|Hackazon                       |http://hackazon.webscantest.com/         |Apache, PHP, Ajax, JSONm XML, Gwt, AMF |unknown
+|bWAPP                          |http://bwapp.ywnxs.com/                  |Ubuntu, Nginx, PHP                     |user: bee:bug
 |Firing Range                   |https://public-firing-range.appspot.com/ |Google App Engine                      |unknown
 |OWASP Vicnum                   |http://vicnum.ciphertechs.com/           |Apache, PHP, Perl                      |unknown
 |Google Gruyere                 |http://google-gruyere.appspot.com/start  |Python, Google App Engine              |unknown
@@ -26,6 +26,10 @@
 |List of online Vuln Web Apps   |https://goo.gl/jMSbMM                    |Unknown                                |unknown
 |List of 40 online sites to practice |https://goo.gl/Qcfdi8               |Unknown                                |unknown
 |Rapid7 Hackazon	              |http://hackazon.webscantest.com/	        |Apache, PHP, Ajax, JSONm XML, Gwt, AMF	|admin:admin:123456
+|IBM Hard Altoro Mutual         |http://hard.altoromutual.com/            |Tomcat, Java 3.1, MegaScript                           |user:jsmith:Demo1234
+|Rapid7 WebScanTest             |http://webscantest.com/                  |Apache, PHP                            |user:testuser:testpass
+|Testsparker SPA (Angular)      |http://angular.testsparker.com/          |Ubuntu, Apache, PHP, Angular 5, MySQL  |unknown
+
 # OSINT GAMES
 |Name                           |URL                                      |Technology                             |Creds (role:user:password)|
 |-------------------------------|-----------------------------------------|---------------------------------------|--------------------------|
