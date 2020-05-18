@@ -1,6 +1,6 @@
 # Awesome Vulnerable Web Applications
 
-|Docker Based Vulnerable web apps.
+|Docker Based Vulnerable web apps.|                   |                                      |
 |------------------|----------------------------------|--------------------------------------|
 |Name              |URL                               |Git Repo                              |
 |------------------|----------------------------------|--------------------------------------|
