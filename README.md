@@ -14,5 +14,5 @@
 |--------------------------|---------------------------------------------|-------------------------------------------|
 |Web Security Portswigger  |https://portswigger.net/web-security         |Free                                       |
 |Hacker101 CTF             |https://ctf.hacker101.com/                   |Free                                       |	
-|Pentesterlab              |https://pentesterlab.com/                    |Not Free                                   |
+|Pentesterlab              |https://pentesterlab.com/                    |partial Free                               |
 |PentesterAcademy          |https://www.pentesteracademy.com/            |Not Free                                   |
