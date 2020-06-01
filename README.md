@@ -6,7 +6,7 @@
 |vulapps           |http://vulapps.evalbug.com/                  |https://github.com/Medicean/VulApps        |Multiple Apps               |
 |Juice Shop        |https://owasp.org/www-project-juice-shop/    |https://github.com/bkimminich/juice-shop   |Single App                  |
 |hackazon          |https://hub.docker.com/r/pierrickv/hackazon  |https://github.com/rapid7/hackazon         |Single App                  |
-
+|PwnAuth (OAuth)   |https://www.fireeye.com/blog/threat-research/2018/05/shining-a-light-on-oauth-abuse-with-pwnauth.html|https://github.com/fireeye/PwnAuth|
 
 
 # Awesome Vulnerable Web Applications only Online. Easy to get started.
