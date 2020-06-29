@@ -13,6 +13,7 @@
 |Name                      |URL/Docker page                              |Cost                                       |
 |--------------------------|---------------------------------------------|-------------------------------------------|
 |Web Security Portswigger  |https://portswigger.net/web-security         |Free                                       |
-|Hacker101 CTF             |https://ctf.hacker101.com/                   |Free                                       |	
+|Hacker101 CTF             |https://ctf.hacker101.com/                   |Free                                       |
+|Hack YourSelf First       |https://hack-yourself-first.com/             |Free                                       |
 |Pentesterlab              |https://pentesterlab.com/                    |partial Free                               |
 |PentesterAcademy          |https://www.pentesteracademy.com/            |Not Free                                   |
